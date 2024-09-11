@@ -1,0 +1,52 @@
+# Código número 1
+agente = input('Qual é o seu main no Valorant? ')
+
+match agente:
+    case 'deadlock': 
+        print('DreadHot')
+    case 'vyse':
+        print('Vyse ferrar')
+    case 'breach':
+        print('son of a breach')
+    case 'clove':
+        print('Kuririn')
+    case 'phoenix':
+        print('Fogueira São Jõao')
+    case 'skye':
+        print('Luísa mel')
+    case 'gekko':
+        print('Pai do tatu')
+    case 'cypher':
+        print('Agente do FBI')
+    case 'raze':
+        print('baianinha')
+    case 'astra':
+        print('Karol com k')
+    case 'viper':
+        print('Orochimaru')
+    case 'sova':
+        print('Um olho só')
+    case 'brimstone':
+        print('Idoso')
+    case 'chamber':
+        print('Cristiano Ronaldo')
+    case 'fade':
+        print('Emo')
+    case 'neon':
+        print('Pilha Philips')
+    case 'killjoy':
+        print('Nerd')
+    case 'omen':
+        print('Fantasma')
+    case 'sage':
+        print('Pedreiro')
+    case 'yoru':
+        print('China')        
+    case 'kay/o':
+        print('Tesla que atira')
+    case 'reyna':
+        print('Mulher Roxa')
+    case 'harbor':
+        print('Garrafa cristal')
+    case 'iso':
+        print('ISOprofeno')
